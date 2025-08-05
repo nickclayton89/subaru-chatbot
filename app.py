@@ -1,11 +1,10 @@
 
 import streamlit as st
-from langchain.schema import Document
-from langchain.vectorstores import Chroma
 from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
-import tempfile
+from langchain.vectorstores import DocArrayInMemorySearch
+from langchain.schema import Document
+from langchain.chains import RetrievalQA
 
 @st.cache_resource
 def load_vector_store():
@@ -16,8 +15,7 @@ def load_vector_store():
             docs.append(Document(page_content=content))
 
     embeddings = OpenAIEmbeddings()
-    persist_dir = tempfile.mkdtemp()
-    return Chroma.from_documents(docs, embeddings, persist_directory=persist_dir)
+    return DocArrayInMemorySearch.from_documents(docs, embeddings)
 
 st.title("🚗 Subaru Sales Chatbot")
 st.markdown("Ask anything about the **2025 Crosstrek** or **Forester**!")

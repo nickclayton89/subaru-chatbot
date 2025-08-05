@@ -1,6 +1,6 @@
-
 import streamlit as st
-from langchain.embeddings.openai import OpenAIEmbeddings
+import os
+from langchain.embeddings import OpenAIEmbeddings
 from langchain.llms import OpenAI
 from langchain.vectorstores import DocArrayInMemorySearch
 from langchain.schema import Document
@@ -14,7 +14,7 @@ def load_vector_store():
             content = f.read()
             docs.append(Document(page_content=content))
 
-    embeddings = OpenAIEmbeddings()
+    embeddings = OpenAIEmbeddings(openai_api_key=os.environ["OPENAI_API_KEY"])
     return DocArrayInMemorySearch.from_documents(docs, embeddings)
 
 st.title("🚗 Subaru Sales Chatbot")

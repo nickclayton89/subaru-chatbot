@@ -1,1 +1,76 @@
+## Model: 2025 Subaru Crosstrek
+
+### Overview
+- Compact AWD crossover SUV with standard Subaru Symmetrical All-Wheel Drive
+- Interior volume up to 120.4 cu ft
+
+### Engine & Powertrain
+- 2.5 L SUBARU BOXER® Engine (FB25D), 182 hp and ~178 lb‑ft torque
+- Lineartronic CVT, symmetrical AWD, dual‑function X‑MODE on all trims
+
+### Trim Levels & Pricing (MSRP)
+- Base — $25,695
+- Premium — $27,810; now with 2.5 L engine + 11.6″ touchscreen
+- Sport — ~$30,360
+- Limited — ~$32,260
+- Wilderness — off-road–focused variant, price similar or slightly higher
+
+### Ground Clearance
+- Standard trims: 8.7 inches
+- Wilderness trim: 9.3 inches with all-terrain tires and skid plates
+
+### Interior & Features
+- EyeSight Driver Assist Technology standard (adaptive cruise, lane centering, pre-collision braking)
+- 11.6″ touchscreen infotainment standard on Premium and above; supports wireless Apple CarPlay / Android Auto
+- Features: Roof rails, tight turning radius, durable interior materials
+
+### Capability Highlights
+- Strong resale/reliability: 97% of Crosstreks sold in past 10 years still on road
+- Towing (Wilderness): up to 3,500 lb due to CVT cooler and revised final drive
+
+### Notes
+- The 2026 hybrid Crosstrek was announced for production in late 2025, slated for 2026 model year—no hybrid in the 2025 lineup
+
+### Option Packages – 2025 Subaru Crosstrek
+
+#### Trims with Option Packages:
+- OP14 — Premium
+- OP22 — Sport
+- OP23 — Wilderness
+- OP32 — Limited
+- OP33 — Limited
+
+| Feature                                           | OP14 (Premium) | OP22 (Sport) | OP23 (Wilderness) | OP32 (Limited) | OP33 (Limited) |
+|--------------------------------------------------|----------------|---------------|--------------------|----------------|----------------|
+| All-Weather Package                              | ✅              | ❌             | ❌                  | ❌              | ❌              |
+| Blind-Spot Detection / Rear Cross-Traffic Alert  | ✅              | ✅             | ❌                  | ❌              | ❌              |
+| Harman Kardon Quantum Logic™ Surround System     | ❌              | ❌             | ✅                  | ✅              | ✅              |
+| Power Moonroof                                   | ✅              | ✅             | ✅                  | ✅              | ✅              |
+| Power Driver Seat (10-way with 2-way lumbar)     | ✅              | ✅             | ✅                  | ❌              | ❌              |
+| Subaru STARLINK 11.6" Multimedia Navigation      | ❌              | ❌             | ❌                  | ❌              | ✅              |
+
+✅ = Included in option package  
+❌ = Not included
+
+Notes:
+- All option packages are tied to specific trim levels.
+- OP33 is the most fully loaded configuration for the Limited trim and includes STARLINK Navigation and Harman Kardon audio.
+- Harman Kardon® is a registered trademark of Harman International Industries.
+
+
+### Spotter's Guide – 2025 Subaru Crosstrek
+
+| Feature                    | Base                         | Premium                      | Sport                        | Wilderness                    | Limited                         |
+|----------------------------|-------------------------------|-------------------------------|------------------------------|-------------------------------|----------------------------------|
+| Grille                     | Black Finish Trim             | Dark Gray Trim               | Gloss Black Trim             | Black Finish Trim             | Dark Gray Trim                  |
+| Fog Lights                 | Black Insert Covers           | Standard, LED                | LED, 6-Element Hexagonal     | Standard, LED                 | Standard, LED                   |
+| Wheels                     | 17-inch Alloy, Dark Gray      | 17-inch Alloy, Dark Gray w/ Machine Finish | 18-inch Alloy, Dark Gray | 17-inch Alloy, Matte Black     | 18-inch Alloy, Dark Gray w/ Machine Finish |
+| Door Handles               | Unpainted Black               | Body Color                   | Body Color                   | Body Color                    | Body Color                      |
+| Power Exterior Mirrors     | Manual, Unpainted Black       | Manual, Dark Gray, Turn Signals | Manual, Gloss Black, Turn Signals | Manual, Low Luster Black, Turn Signals | Manual, Dark Gray, Turn Signals |
+| Roof Spoiler               | Body Color                    | Body Color                   | Gloss Black                  | Body Color                    | Body Color                      |
+| Upholstery                 | Gray Cloth                    | Premium Gray or Black Cloth  | Sport Cloth w/ Yellow Stitching | Gray StarTex w/ Yellow Stitching | Gray or Black Leather w/ Orange Stitching |
+| STARLINK Multimedia System| Dual 7.0" Screens             | 11.6" Center Display         | 11.6" Center Display         | 11.6" Center Display          | 11.6" Center Display            |
+| Storage Box & Armrests    | Simulated Leather             | Simulated Leather            | Sim. Leather w/ Yellow Stitching | Sim. Leather w/ Yellow Stitching | Sim. Leather w/ Orange Stitching |
+| Steering Wheel            | Soft-grip Urethane            | Soft-grip Urethane           | Leather-wrapped w/ Yellow Stitching | Leather-wrapped w/ Yellow Stitching | Leather-wrapped w/ Orange Stitching |
+| Shifter Handle            | Soft-grip Urethane            | Soft-grip Urethane           | Leather-wrapped              | Leather-wrapped               | Leather-wrapped                 |
 

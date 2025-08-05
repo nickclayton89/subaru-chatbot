@@ -9,8 +9,9 @@ from langchain.llms import OpenAI
 def load_vector_store():
     docs = []
     for file in ["data/2025_crosstrek_updated.txt", "data/2025_forester.txt"]:
-        loader = TextLoader(file)
-        docs.extend(loader.load())
+        with open(file, "r", encoding="utf-8") as f:
+            content = f.read()
+            docs.append(Document(page_content=content))
     embeddings = OpenAIEmbeddings()
     return FAISS.from_documents(docs, embeddings)
 

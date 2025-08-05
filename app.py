@@ -12,7 +12,12 @@ def load_vector_store():
     for file in ["data/2025_crosstrek_updated.txt", "data/2025_forester.txt"]:
         with open(file, "r", encoding="utf-8") as f:
             content = f.read()
-            docs.append(Document(page_content=content))
+            from langchain.text_splitter import CharacterTextSplitter
+
+            splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+            splits = splitter.split_text(content)
+            for chunk in splits:
+                docs.append(Document(page_content=chunk))
 
     embeddings = OpenAIEmbeddings(openai_api_key=os.environ["OPENAI_API_KEY"])
     return DocArrayInMemorySearch.from_documents(docs, embeddings)

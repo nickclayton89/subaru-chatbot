@@ -1,1 +1,45 @@
+## Model: 2025 Subaru Forester (Gasoline & Hybrid)
+
+### Overview
+- Compact AWD SUV built on the Subaru Global Platform with increased rigidity and improved sound insulation
+- Seating for five, cargo space up to ~69.1 cu ft with rear seats folded
+
+### Powertrain Options
+#### Gasoline
+- 2.5 L SUBARU BOXER® 4-cylinder engine (FB25), 180 hp @ ~5,800 rpm and 178 lb-ft torque
+- Lineartronic CVT with eight-speed manual shift mode, Symmetrical AWD
+
+#### Hybrid (Introduced Mid‑2025)
+- Available on Premium, Sport, Limited, Touring trims
+- Hybrid powertrain delivers 194 hp combined, up to 40% improved city fuel economy, range up to ~581 miles
+
+### Trim Levels & Pricing (MSRP & Features)
+- Base – ~$29,695: Dual 7.0″ STARLINK touchscreen, LED headlights, roof rails, EyeSight®, 17″ wheels, 8.7″ ground clearance
+- Premium – ~$31,995: Adds 11.6″ STARLINK Multimedia Plus, wireless CarPlay/Android Auto, heated front seats, panoramic moonroof, power driver seat, keyless entry
+- Sport – ~$34,495: 19″ bronze-finish wheels, StarTex® upholstery, bronze accent trim, paddle shifters, blind-spot detection, dual-function X-MODE
+- Limited – ~$35,995: 18″ machine-finish wheels, leather upholstery, heated steering wheel, foot-activated hands-free power gate, power passenger seat, BSM & RCTA
+- Touring – ~$39,995: All Limited features plus Harman Kardon audio, 11‑speaker premium system, navigation, surround-view monitor, advanced safety features
+- Wilderness – ~$34,920–37,705 (carryover fifth-gen model): Off-road trim with 9.2″ ground clearance, 3,000 lb towing, rugged styling, CVT cooler, dual-mode X-MODE
+
+### Ground Clearance & Capability
+- Standard trims: 8.7″ ground clearance
+- Wilderness: 9.2″ with underbody protection, all-terrain tires, improved approach/departure angles, towing up to 3,000–3,500 lb
+
+### Safety & Driver Assist
+- Latest EyeSight Driver Assist with wider field-of-view mono camera, Automatic Emergency Steering, Adaptive Cruise with Lane Centering, Pre-Collision Braking & Throttle Management
+- Standard Blind-Spot Detection, Rear Cross-Traffic Alert, Rear Seat Reminder, Emergency Stop Assist (Turbo models)
+- Forester Hybrid earned IIHS Top Safety Pick status
+
+### Fuel Economy & Range
+- Gasoline models: ~25 mpg city / 32 mpg highway / 28 mpg combined
+- Hybrid: ~35 mpg combined, up to 581-mile range per tank
+
+### Notable Features
+- Available foot-activated hands-free power rear gate
+- Available Surround View Monitor on Touring
+- Standard dual digital displays, auto vehicle hold, dual-zone climate, ample USB ports
+
+### Notes
+- Hybrid introduced during mid-2025, not available on Base trim
+- Wilderness trim uses outgoing-gen vehicle until 2026 redesign
 

@@ -1,6 +1,7 @@
 import streamlit as st
 from langchain.schema import Document
-from langchain.vectorstores import FAISS
+from langchain.vectorstores import Chroma
+import tempfile
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI

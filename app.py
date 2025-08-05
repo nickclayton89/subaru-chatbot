@@ -1,10 +1,10 @@
-import streamlit as st
 import os
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.llms import OpenAI
+from langchain.chains import RetrievalQA
 from langchain.vectorstores import DocArrayInMemorySearch
 from langchain.schema import Document
-from langchain.chains import RetrievalQA
+import streamlit as st
 
 @st.cache_resource
 def load_vector_store():
@@ -23,6 +23,9 @@ st.markdown("Ask anything about the **2025 Crosstrek** or **Forester**!")
 question = st.text_input("Enter your question:")
 if question:
     db = load_vector_store()
-    qa = RetrievalQA.from_chain_type(llm=OpenAI(model="gpt-4"), retriever=db.as_retriever())
+    qa = RetrievalQA.from_chain_type(
+        llm=OpenAI(model="gpt-4", openai_api_key=os.environ["OPENAI_API_KEY"]),
+        retriever=db.as_retriever()
+    )
     answer = qa.run(question)
     st.markdown(f"**Answer:** {answer}")

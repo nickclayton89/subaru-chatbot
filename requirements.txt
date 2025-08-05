@@ -2,3 +2,6 @@ streamlit
 openai
 langchain
 faiss-cpu
+unstructured
+python-magic
+pdfminer.six

@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain.document_loaders import TextLoader
+from langchain.schema import Document
 from langchain.vectorstores import FAISS
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
